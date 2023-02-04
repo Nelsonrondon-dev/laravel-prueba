@@ -76,6 +76,14 @@ Web portal made to measure made in Laravel 8. For the poderjudicialvirtual.com
 
 [Portal-Laravel](https://nelson-dev.tech/laravel_app/public/login)
 
+ ### Usuarios
+
+   **email:** cliente@gmail.com
+   **password:** cliente
+
+  **email:** adminitrador@gmail.com
+   **password:**  adminitrador
+
 
 ## Tech Stack
 
